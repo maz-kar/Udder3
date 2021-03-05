@@ -25,7 +25,8 @@ class ViewController: UIViewController {
     override func overrideTraitCollection(forChild childViewController: UIViewController) -> UITraitCollection? {
         
     }
-
+    
+    override var overrideUserInterfaceStyle: UIUserInterfaceStyle
     
 
 
